@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Visitor
+comment0.text=\r\n\ Create\ a\ vistor\ class\ to\ keep\ record\ in\ Library\r\n
+comment1.params=name\ lastName\ timeDuration
+comment1.target=Visitor(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Visitor\r\n\ with\ defined\ parameters\ with\ String\ and\ interger\ values\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getLastname()
+comment4.params=timeDuration
+comment4.target=int\ getTimeDuration(int)
+comment5.params=timeDuration
+comment5.target=void\ setTimeDuration(int)
+numComments=6

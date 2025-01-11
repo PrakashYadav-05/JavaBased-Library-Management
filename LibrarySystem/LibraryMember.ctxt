@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LibraryMember
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LibraryMember\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=memberId
+comment1.target=LibraryMember(int)
+comment2.params=
+comment2.target=int\ getMemberId()
+comment3.params=memberId
+comment3.target=void\ setMemberId(int)
+comment4.params=
+comment4.target=java.util.List\ getBorrowedBooks()
+comment5.params=
+comment5.target=void\ printDetails()
+comment6.params=book
+comment6.target=void\ borrowBook(Book)
+comment7.params=
+comment7.target=void\ printBorrowedBooks()
+comment8.params=
+comment8.target=int\ getNumberOfBooksBorrowed()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

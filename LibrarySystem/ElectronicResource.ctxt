@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ElectronicResource
+comment0.text=\r\n\ A\ ElectronicResource\ class\ created\r\n\ Inheritance\ method\ used\r\n
+comment1.params=canDownload\ title\ author\ member
+comment1.target=ElectronicResource(boolean,\ java.lang.String,\ Author,\ LibraryMember)
+comment2.params=
+comment2.target=boolean\ isCanDownload()
+comment3.params=canDownload
+comment3.target=void\ setCanDownload(boolean)
+comment4.params=
+comment4.target=void\ printDetails()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

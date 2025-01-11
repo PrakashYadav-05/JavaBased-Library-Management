@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ A\ class\ Book\ that\ hold\ inheriantance\ method\ of\ PrimaryResourse\ .\r\n
+comment1.params=ISBN\ title\ author\ libraryMember
+comment1.target=Book(java.lang.String,\ java.lang.String,\ Author,\ LibraryMember)
+comment2.params=
+comment2.target=java.lang.String\ getISBN()
+comment3.params=ISBN
+comment3.target=void\ setISBN(java.lang.String)
+comment4.params=
+comment4.target=java.util.List\ getDamages()
+comment5.params=damages
+comment5.target=void\ setDamages(java.util.List)
+comment6.params=
+comment6.target=boolean\ isAvailable()
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=damage
+comment8.target=void\ addDamage(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

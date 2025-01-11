@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PrimaryResourse
+comment0.text=\r\n\ A\ PrimaryResourse\ class\ hold\ collections\ of\ data\ from\r\n\ subclass\ Book\ and\ ElectronicBook\r\n
+comment1.params=title\ author\ member
+comment1.target=PrimaryResourse(java.lang.String,\ Author,\ LibraryMember)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PrimaryResourse\r\n\ @param\ with\ defined\ string\ and\ values\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Accessor\ and\ mutator\ methods\ for\ defined\ field\ with\ return\ value\r\n
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=Author\ getAuthor()
+comment5.params=author
+comment5.target=void\ setAuthor(Author)
+comment6.params=
+comment6.target=LibraryMember\ getLibraryMember()
+comment7.params=libraryMember
+comment7.target=void\ setLibraryMember(LibraryMember)
+numComments=8

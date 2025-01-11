@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ElectronicResourceTest
+comment1.params=
+comment1.target=void\ testElectronicResourceDetails()
+comment2.params=expected
+comment2.target=void\ assertConsoleOutputContains(java.lang.String)
+numComments=3
